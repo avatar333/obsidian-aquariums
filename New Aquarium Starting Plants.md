@@ -1,3 +1,7 @@
+- Below is a list of fast growing plants to start with in a new setup, specifically to soak up nutrients quickly, to prevent algae blooms when starting a new tank
+
+<br>
+
 ###### [Pogostemon stellatus "Octopus"](https://www.flowgrow.de/db/aquaticplants/pogostemon-stellatus)
 ![Pogostemon stellatus "Octopus"](https://www.flowgrow.de/db/images/aquaticplants/detail/pogostemon-stellatus-4f7a012e1a76d.jpg)
 
