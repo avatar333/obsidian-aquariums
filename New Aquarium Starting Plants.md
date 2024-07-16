@@ -19,3 +19,8 @@
 
 ###### [Hygrophila polysperma](https://www.flowgrow.de/db/aquaticplants/hygrophila-polysperma)
 ![https://www.flowgrow.de/db/aquaticplants/hygrophila-polysperma](https://www.flowgrow.de/db/images/aquaticplants/detail/hygrophila-polysperma-4f7a01c8df7f7.jpg)
+
+---
+
+###### [Juncus Repens](https://www.flowgrow.de/db/aquaticplants/juncus-repens)
+![Juncus Repens](https://www.flowgrow.de/db/images/aquaticplants/detail/juncus-repens-4f7a0143ddba9.jpg)
