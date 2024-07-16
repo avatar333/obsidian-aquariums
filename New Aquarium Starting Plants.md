@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Below is a list of fast growing plants to start with in a new setup, specifically to soak up nutrients quickly, to prevent algae blooms when starting a new tank
 
 <br>
