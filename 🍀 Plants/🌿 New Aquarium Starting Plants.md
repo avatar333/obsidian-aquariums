@@ -27,3 +27,8 @@ dg-publish: true
 
 ###### [Juncus Repens](https://www.flowgrow.de/db/aquaticplants/juncus-repens)
 ![Juncus Repens](https://www.flowgrow.de/db/images/aquaticplants/detail/juncus-repens-4f7a0143ddba9.jpg)
+
+---
+
+###### [Hygrophila corymbosa "Stricta"](https://www.aquaticplants.co.za/product-page/hygrophila-corymbosa-stricta)
+![Hygrophila corymbosa "Stricta"](https://static.wixstatic.com/media/3eb7e9_dcde73e6b25d4665b3f65595641b89bf~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,enc_auto/3eb7e9_dcde73e6b25d4665b3f65595641b89bf~mv2.jpg)

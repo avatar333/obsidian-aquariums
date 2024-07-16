@@ -1,4 +1,5 @@
+---
+dg-publish: true
+---
 
-| Item       | Source                                    | Cost per unit | Total Cost |
-| ---------- | ----------------------------------------- | ------------- | ---------- |
-| Media bags | [[Substrate-related#^eba264\|Temu Media Bags]] |               |            |
+Cost tracking, it's awful but necessary.
