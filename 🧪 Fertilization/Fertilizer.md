@@ -2,6 +2,7 @@
 
 ##### Osmocote
 - https://www.gandsorchid.com/product-page/osmocote-pro-8-9-month (400g @ R115)
+- https://bishopsfordbonsai.co.za/wp/product/multicote-8-slow-release-fertiliser/ (750g @ R150)
 
 
 ##### Water column
